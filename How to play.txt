@@ -1,0 +1,12 @@
+/////////////////////////////////////
+1. Open application.windows64 or 32 and run The_gaem.exe depending on your operating system.
+2. Select client or server.
+3. Server gotta wait for client to join.
+4.* Client has to type the server's internal or external IP
+    depending on what network you are on.
+/////////////////////////////////////
+**CONTROLS**
+W A S D to move.
+Hold left or right click to shoot.
+Aim with your mouse.
+/////////////////////////////////////
